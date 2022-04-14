@@ -64,7 +64,7 @@ export default {
     }
   },
   sitemap: {
-    hostname: ''
+    hostname: 'https://windi-gradients.netlify.app/'
   },
   toast: {
     position: 'bottom-center',
